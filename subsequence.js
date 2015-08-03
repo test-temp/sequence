@@ -23,7 +23,7 @@ length  = pisequence.length;
             default:;
         }
     }    
-    console.log(three);
+    alert(three);
 }
 
 count_sequence();  
